@@ -1,0 +1,6 @@
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\entities\Question.java
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\vo\SimpleString.java
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\exceptions\MissingQuestionTypeException.java
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\QuestionType.java
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\entities\QuestionRepository.java
+C:\Users\fgerv\vs-code-projects\exam-creator\exam-creator\exam-creator-domain\src\main\java\org\gervasi\exam\creator\domain\exceptions\SimpleStringException.java
